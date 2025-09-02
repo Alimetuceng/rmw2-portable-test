@@ -9,7 +9,7 @@ __pycache__/
 .pytest_cache/
 *.pyc
 
-# Packaging artifacts (genelde yeterli)
+# Packaging
 dist/
 *.egg-info/
 
